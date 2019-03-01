@@ -6,4 +6,4 @@
 
 ---
 
-Code and documentation for experiments in the TreeExplainer paper
+This repository contains notebook code and data for the paper: *Explainable AI for Trees: From Local Explanations to Global Understanding*
