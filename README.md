@@ -15,6 +15,6 @@ This paper presents the first exact game theoretic solution for explaining predi
 
 - Check out the [local explanation benchmark](https://suinleelab.github.io/treeexplainer-study/benchmark/cric/index.html) results.
 
-- Download the [NHANES I data](http://asdfasdf) (the chronic kidney disease and hospital datasets require approval for access)
+- Download the [NHANES I data](https://github.com/suinleelab/treeexplainer-study/tree/master/notebooks/mortality) (the chronic kidney disease and hospital datasets require approval for access)
 
 
