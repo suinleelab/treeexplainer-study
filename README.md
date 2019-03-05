@@ -13,7 +13,7 @@ This paper presents the first exact game theoretic solution for explaining predi
 **Ways to explore the results and code behind the paper:**
 - Use TreeExplainer to explain your own tree-based models with the popular Python [shap package](https://pypi.org/project/shap).
 
-- Check out the [local explanation benchmark](http://asdfasdf) results.
+- Check out the [local explanation benchmark](https://suinleelab.github.io/treeexplainer-study/benchmark/cric/index.html) results.
 
 - Download the [NHANES I data](http://asdfasdf) (the chronic kidney disease and hospital datasets require approval for access)
 
