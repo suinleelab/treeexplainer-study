@@ -17,4 +17,5 @@ This paper presents the first exact game theoretic solution for explaining predi
 
 - Download the [NHANES I data](https://github.com/suinleelab/treeexplainer-study/tree/master/notebooks/mortality) (the chronic kidney disease and hospital datasets require approval for access)
 
+- Browse the [released notebooks](https://github.com/suinleelab/treeexplainer-study/tree/master/notebooks) (still under construction).
 
